@@ -7,6 +7,7 @@
     
     //print krne k liye 2nd
     print("Hello there<br>");
+    echo "Hello riteshq";
 ?>
 
 <?php 
