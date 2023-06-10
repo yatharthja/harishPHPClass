@@ -1,6 +1,7 @@
 <h1 style="text-align:center;background-color:aqua"><?php echo "Harish PHP Class"; ?></h1>
 
 <a href="index.php"> <?php echo "< Back";?></a>
+<h2>Hi I am Ritesh</h2>
 <?php 
     //print krne k liye 1st
     echo "<h2>Day I </h2>";
