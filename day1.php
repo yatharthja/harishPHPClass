@@ -2,6 +2,7 @@
 
 <a href="index.php"> <?php echo "< Back";?></a>
 <h3>Hi I am Anshu</h3>
+<h2>Hi I am Ritesh</h2>
 <?php 
     //print krne k liye 1st
     echo "<h2>Day I </h2>";

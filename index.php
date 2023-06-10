@@ -10,6 +10,7 @@
   <h1 style="text-align:center;background-color:aqua"><?php echo "Harish PHP Class"; ?></h1>
 
   <h3>Day wise context</h3>
+  <h3>Learning with phase</h3>
 <ul>
   <li><a href="day1.php"><?php echo "Day I";?></a></li>
   <li><a href="day2.php"><?php echo "Day II";?></a></li>
