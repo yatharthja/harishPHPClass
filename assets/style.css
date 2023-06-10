@@ -1,0 +1,24 @@
+* {
+    margin:0px;
+    padding: 0px;
+}
+.main_div{
+    justify-content:center;
+    align-items: center;
+}
+
+.main_head{
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    padding: 25px;
+    font-family: cursive;
+}
+table{
+    margin-top: 50px;
+}
+
+.space {
+    height: 150px;
+    width: 150px;
+}
